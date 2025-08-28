@@ -21,7 +21,7 @@ Los conceptos principales que se aplican en este proyecto son:
 Es imprescindible hacer mención de los hallazgos realizados durante la práctica, enlistados a continuación:
 - **La diferencia entre realizar un proyecto Maven y Ant**.
 - **La interfaz de navegación** se encuentra al costado izquierdo de la aplicación, así es posible acceder a distintas propiedades de los archivos
-- **-> Mención destacarada a _pom.xml_ que es el archivo para poder customizar o personalizar las etiquetas y por ende, el proyecto en cuestión.
+- **-> Mención destacarada a _pom.xml_** que es el archivo para poder customizar o personalizar las etiquetas y por ende, el proyecto en cuestión.
 - **Para renombrar un archivo** en NetBeans: Seleccionando el proyecto `POOP1_ant`podemos dar click derecho y seleccionar sus propiedades en `Properties`.
 
 ---
